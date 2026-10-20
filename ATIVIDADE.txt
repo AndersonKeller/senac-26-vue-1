@@ -1,0 +1,8 @@
+- recriar a pokedex que antes foi feita em JS vanilla
+
+REGRAS
+ - usar axios pra requisições
+ - componentes para cada parte das telas
+ - uso de props
+ - tela home e tela do pokemon com vue-router
+
