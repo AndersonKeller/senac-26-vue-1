@@ -6,3 +6,4 @@ REGRAS
  - uso de props
  - tela home e tela do pokemon com vue-router
 
+entregar projeto no github 
